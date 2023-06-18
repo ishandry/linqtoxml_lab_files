@@ -1,0 +1,14 @@
+<genres>
+	<genre>
+		<genre_id>1</genre_id>
+		<genre_name>fiction</genre_name>
+	</genre>
+	<genre>
+		<genre_id>2</genre_id>
+		<genre_name>drama</genre_name>
+	</genre>
+	<genre>
+		<genre_id>3</genre_id>
+		<genre_name>airy tail</genre_name>
+	</genre>
+</genres>

@@ -1,0 +1,10 @@
+<publishers>
+	<publisher>
+		<publisher_id>1</publisher_id>
+		<publisher_name>Super books</publisher_name>
+	</publisher>
+	<publisher>
+		<publisher_id>2</publisher_id>
+		<publisher_name>Ababagalamaga</publisher_name>
+	</publisher>
+</publishers>

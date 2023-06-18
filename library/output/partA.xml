@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partA>
+  <author name="Aosipakiv V.B.">
+    <book title="The story of the programmer">
+      <publisher_name>Super books</publisher_name>
+    </book>
+  </author>
+  <author name="Genfrick S.T.">
+    <book title="True findle">
+      <publisher_name>Ababagalamaga</publisher_name>
+    </book>
+  </author>
+  <author name="Jayron T.H.">
+    <book title="Jayron T.H. autobiography">
+      <publisher_name>Ababagalamaga</publisher_name>
+    </book>
+    <book title="The story of the farmer">
+      <publisher_name>Ababagalamaga</publisher_name>
+    </book>
+    <book title="The story of the priest">
+      <publisher_name>Super books</publisher_name>
+    </book>
+  </author>
+</partA>

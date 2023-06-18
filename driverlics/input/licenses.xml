@@ -1,0 +1,26 @@
+<lics>
+	<lic>
+		<lic_id>1</lic_id>
+		<lastname>Xshchuk</lastname>
+		<category>B</category>
+		<exp_date>06/07/2025</exp_date>
+	</lic>
+	<lic>
+		<lic_id>2</lic_id>
+		<lastname>Oliynik</lastname>
+		<category>A</category>
+		<exp_date>11/11/2023</exp_date>
+	</lic>
+	<lic>
+		<lic_id>3</lic_id>
+		<lastname>Vasylenko</lastname>
+		<category>A</category>
+		<exp_date>02/16/2025</exp_date>
+	</lic>
+	<lic>
+		<lic_id>4</lic_id>
+		<lastname>Added surname</lastname>
+		<category>A</category>
+		<exp_date>02/16/2025</exp_date>
+	</lic>
+</lics>

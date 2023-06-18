@@ -1,0 +1,32 @@
+<students>
+	<student>
+		<student_id>1</student_id>
+		<group>XMI-21</group>
+		<lastname>Ishchuk</lastname>
+		<firstname>Andriy</firstname>
+	</student>
+	<student>
+		<student_id>2</student_id>
+		<group>XMI-21</group>
+		<lastname>Padalka</lastname>
+		<firstname>Mariya</firstname>
+	</student>
+	<student>
+		<student_id>3</student_id>
+		<group>XMI-21</group>
+		<lastname>Aenchenko</lastname>
+		<firstname>Olexandr</firstname>
+	</student>
+	<student>
+		<student_id>4</student_id>
+		<group>PMO-26</group>
+		<lastname>Xrasnogurskiy</lastname>
+		<firstname>Andriy</firstname>
+	</student>
+	<student>
+		<student_id>5</student_id>
+		<group>PMO-26</group>
+		<lastname>Borobienko</lastname>
+		<firstname>Bohdan</firstname>
+	</student>
+</students>

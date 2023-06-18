@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partAMod>
+  <day_concerts date="07/07/2022">
+    <perf_concert perf="Oleg Viktorenko">
+      <concert title="viktorenko show" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="07/07/2023">
+    <perf_concert perf="Oleg Viktorenko">
+      <concert title="viktorenko show" />
+      <concert title="viktorenko show" />
+    </perf_concert>
+    <perf_concert perf="Aellboy">
+      <concert title="concert_title_2" />
+      <concert title="concert_title_2" />
+      <concert title="concert_title_2" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="08/07/2023">
+    <perf_concert perf="Polunychka">
+      <concert title="polun show" />
+    </perf_concert>
+    <perf_concert perf="Oleg Viktorenko">
+      <concert title="concert_title_4" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="09/09/2023">
+    <perf_concert perf="Oleg Viktorenko">
+      <concert title="viktorenko show" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="10/10/2023">
+    <perf_concert perf="Polunychka">
+      <concert title="polun show" />
+    </perf_concert>
+    <perf_concert perf="Awesome theature">
+      <concert title="some first title (by awesome theature)" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="10/14/2023">
+    <perf_concert perf="Awesome theature">
+      <concert title="some first title (by awesome theature)" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="10/17/2023">
+    <perf_concert perf="Awesome theature">
+      <concert title="some first title (by awesome theature)" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="10/22/2023">
+    <perf_concert perf="Awesome theature">
+      <concert title="some SECOND title (by awesome theature)" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="11/07/2023">
+    <perf_concert perf="Aellboy">
+      <concert title="concert_title_5" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="11/20/2023">
+    <perf_concert perf="Awesome theature">
+      <concert title="some SECOND title (by awesome theature)" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="12/29/2023">
+    <perf_concert perf="Polunychka">
+      <concert title="polun show new" />
+    </perf_concert>
+  </day_concerts>
+  <day_concerts date="12/30/2023">
+    <perf_concert perf="Polunychka">
+      <concert title="show new" />
+    </perf_concert>
+  </day_concerts>
+</partAMod>

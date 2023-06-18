@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partC>
+  <day_events date="05/05/2025" local="home">
+    <event>
+      <event_title>event_title 4</event_title>
+      <agency_name>agency 3</agency_name>
+    </event>
+  </day_events>
+  <day_events date="08/08/2023" local="home">
+    <event>
+      <event_title>event_title 3</event_title>
+      <agency_name>agency 2</agency_name>
+    </event>
+  </day_events>
+  <day_events date="07/07/2023" local="home">
+    <event>
+      <event_title>event_title1</event_title>
+      <agency_name>bgency 1</agency_name>
+    </event>
+  </day_events>
+</partC>

@@ -1,0 +1,24 @@
+<results>
+	<subject>history</subject>
+	<teacher_id>2</teacher_id>
+	<result>
+		<student_id>1</student_id>
+		<score>55</score>
+	</result>
+	<result>
+		<student_id>2</student_id>
+		<score>91</score>
+	</result>
+	<result>
+		<student_id>3</student_id>
+		<score>91</score>
+	</result>
+	<result>
+		<student_id>4</student_id>
+		<score>71</score>
+	</result>
+	<result>
+		<student_id>5</student_id>
+		<score>22</score>
+	</result>
+</results>

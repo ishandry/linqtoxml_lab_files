@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<subjects_results>
+  <results subject="aprogramming" teacher="Muzychuk A.">
+    <group_results group="PMO-26">
+      <student_score student="Borobienko B.">62</student_score>
+      <student_score student="Xrasnogurskiy A.">94</student_score>
+    </group_results>
+    <group_results group="XMI-21">
+      <student_score student="Aenchenko O.">91</student_score>
+      <student_score student="Ishchuk A.">79</student_score>
+      <student_score student="Padalka M.">39</student_score>
+    </group_results>
+  </results>
+  <results subject="history" teacher="Stupka V.">
+    <group_results group="PMO-26">
+      <student_score student="Borobienko B.">22</student_score>
+      <student_score student="Xrasnogurskiy A.">71</student_score>
+    </group_results>
+    <group_results group="XMI-21">
+      <student_score student="Aenchenko O.">91</student_score>
+      <student_score student="Ishchuk A.">55</student_score>
+      <student_score student="Padalka M.">91</student_score>
+    </group_results>
+  </results>
+</subjects_results>

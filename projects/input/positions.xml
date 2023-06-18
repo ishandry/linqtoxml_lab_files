@@ -1,0 +1,12 @@
+<positions>
+	<position>
+		<pos_id>1</pos_id>
+		<pos_name>division secondary guy</pos_name>
+		<payrate>300</payrate>
+	</position>
+	<position>
+		<pos_id>2</pos_id>
+		<pos_name>division lead</pos_name>
+		<payrate>750</payrate>
+	</position>
+</positions>

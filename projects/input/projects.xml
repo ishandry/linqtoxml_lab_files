@@ -1,0 +1,10 @@
+<projects>
+	<project>
+		<prj_id>1</prj_id>
+		<prj_name>Project 1</prj_name>
+	</project>
+	<project>
+		<prj_id>2</prj_id>
+		<prj_name>Froject 2</prj_name>
+	</project>
+</projects>

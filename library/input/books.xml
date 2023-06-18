@@ -1,0 +1,27 @@
+<books>
+	<book>
+		<book_id>1</book_id>
+		<author>Jayron T.H.</author>
+		<title>The story of the priest</title>
+	</book>
+	<book>
+		<book_id>2</book_id>
+		<author>Aosipakiv V.B.</author>
+		<title>The story of the programmer</title>
+	</book>
+	<book>
+		<book_id>3</book_id>
+		<author>Jayron T.H.</author>
+		<title>The story of the farmer</title>
+	</book>
+	<book>
+		<book_id>4</book_id>
+		<author>Genfrick S.T.</author>
+		<title>True findle</title>
+	</book>
+	<book>
+		<book_id>5</book_id>
+		<author>Jayron T.H.</author>
+		<title>Jayron T.H. autobiography</title>
+	</book>
+</books>

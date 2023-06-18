@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partA>
+  <day_patients date="04/09/2022">
+    <services patient="Ishchuk">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+    </services>
+    <services patient="Ivanyshyn">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+    <services patient="Murata">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Onizenko">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+    <services patient="Sheremeta">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+    </services>
+    <services patient="Vitenko">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="04/11/2023">
+    <services patient="Ishchuk">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Ivanyshyn">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Murata">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+    <services patient="Onizenko">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+    </services>
+    <services patient="Sheremeta">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Tohenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Vereshchenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Vitenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="04/09/2023">
+    <services patient="Ishchuk">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Ivanyshyn">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Murata">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Onizenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+    <services patient="Sheremeta">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="02/02/2022">
+    <services patient="Ishchuk">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="21/08/2023">
+    <services patient="Vereshchenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="21/08/2022">
+    <services patient="Ivanyshyn">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+    </services>
+    <services patient="Tohenko">
+      <service>
+        <service_name>service 1</service_name>
+        <price>300</price>
+      </service>
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+    <services patient="Vereshchenko">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="21/04/2022">
+    <services patient="Tohenko">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="21/06/2022">
+    <services patient="Tohenko">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="22/06/2022">
+    <services patient="Tohenko">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="04/08/2023">
+    <services patient="Vitenko">
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+      <service>
+        <service_name>service 2</service_name>
+        <price>500</price>
+      </service>
+    </services>
+  </day_patients>
+  <day_patients date="05/09/2022">
+    <services patient="Murata">
+      <service>
+        <service_name>service 3</service_name>
+        <price>79</price>
+      </service>
+    </services>
+  </day_patients>
+</partA>

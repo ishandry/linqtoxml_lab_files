@@ -1,0 +1,24 @@
+<results>
+	<subject>aprogramming</subject>
+	<teacher_id>1</teacher_id>
+	<result>
+		<student_id>1</student_id>
+		<score>79</score>
+	</result>
+	<result>
+		<student_id>2</student_id>
+		<score>39</score>
+	</result>
+	<result>
+		<student_id>3</student_id>
+		<score>91</score>
+	</result>
+	<result>
+		<student_id>4</student_id>
+		<score>94</score>
+	</result>
+	<result>
+		<student_id>5</student_id>
+		<score>62</score>
+	</result>
+</results>

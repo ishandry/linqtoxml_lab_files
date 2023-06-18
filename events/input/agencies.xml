@@ -1,0 +1,14 @@
+<agencies>
+	<agency>
+		<agency_id>1</agency_id>
+		<agency_name>bgency 1</agency_name>
+	</agency>
+	<agency>
+		<agency_id>2</agency_id>
+		<agency_name>agency 2</agency_name>
+	</agency>
+	<agency>
+		<agency_id>3</agency_id>
+		<agency_name>agency 3</agency_name>
+	</agency>
+</agencies>

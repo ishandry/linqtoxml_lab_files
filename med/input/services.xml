@@ -1,0 +1,17 @@
+<services>
+	<service>
+		<service_id>1</service_id>
+		<service_name>service 1</service_name>
+		<service_price>300</service_price>
+	</service>
+	<service>
+		<service_id>2</service_id>
+		<service_name>service 2</service_name>
+		<service_price>500</service_price>
+	</service>
+	<service>
+		<service_id>3</service_id>
+		<service_name>service 3</service_name>
+		<service_price>79</service_price>
+	</service>
+</services>

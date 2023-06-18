@@ -1,0 +1,51 @@
+<auds>
+	<aud>
+		<emp_id>1</emp_id>
+		<prj_id>1</prj_id>
+		<hours>30</hours>
+		<desc>Done something (30 hours spent).</desc>
+		<date>2023-04-03</date>
+	</aud>
+	<aud>
+		<emp_id>2</emp_id>
+		<prj_id>1</prj_id>
+		<hours>42</hours>
+		<desc>Done something (42 hours spent).</desc>
+		<date>2023-04-03</date>
+	</aud>
+	<aud>
+		<emp_id>2</emp_id>
+		<prj_id>1</prj_id>
+		<hours>20</hours>
+		<desc>Done something (20 hours spent).</desc>
+		<date>2023-04-21</date>
+	</aud>
+	<aud>
+		<emp_id>3</emp_id>
+		<prj_id>2</prj_id>
+		<hours>23</hours>
+		<desc>Done something (23 hours spent).</desc>
+		<date>2023-06-01</date>
+	</aud>
+	<aud>
+		<emp_id>5</emp_id>
+		<prj_id>2</prj_id>
+		<hours>3</hours>
+		<desc>Done something (3 hours spent).</desc>
+		<date>2023-06-01</date>
+	</aud>
+	<aud>
+		<emp_id>5</emp_id>
+		<prj_id>2</prj_id>
+		<hours>11</hours>
+		<desc>Done something (11 hours spent).</desc>
+		<date>2023-06-07</date>
+	</aud>
+	<aud>
+		<emp_id>4</emp_id>
+		<prj_id>2</prj_id>
+		<hours>24</hours>
+		<desc>Done something (24 hours spent).</desc>
+		<date>2023-06-01</date>
+	</aud>
+</auds>

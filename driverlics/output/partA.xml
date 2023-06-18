@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partA>
+  <license>
+    <id>4</id>
+    <lastname>Added surname</lastname>
+    <category>A</category>
+    <from_date>03/03/2022</from_date>
+    <to_date>02/16/2025</to_date>
+  </license>
+  <license>
+    <id>2</id>
+    <lastname>Oliynik</lastname>
+    <category>A</category>
+    <from_date>02/02/2022</from_date>
+    <to_date>11/11/2023</to_date>
+  </license>
+  <license>
+    <id>3</id>
+    <lastname>Vasylenko</lastname>
+    <category>A</category>
+    <from_date>03/03/2022</from_date>
+    <to_date>02/16/2025</to_date>
+  </license>
+  <license>
+    <id>1</id>
+    <lastname>Xshchuk</lastname>
+    <category>B</category>
+    <from_date>06/07/2021</from_date>
+    <to_date>06/07/2025</to_date>
+  </license>
+</partA>

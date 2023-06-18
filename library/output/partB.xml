@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partB>
+  <author name="Aosipakiv V.B.">
+    <book title="The story of the programmer">
+      <publisher_name>Super books</publisher_name>
+      <date>12/17/2022</date>
+    </book>
+  </author>
+  <author name="Genfrick S.T.">
+    <book title="True findle">
+      <publisher_name>Ababagalamaga</publisher_name>
+      <date>7/7/2023</date>
+    </book>
+  </author>
+  <author name="Jayron T.H.">
+    <book title="Jayron T.H. autobiography">
+      <publisher_name>Ababagalamaga</publisher_name>
+      <date>8/7/2023</date>
+    </book>
+  </author>
+</partB>

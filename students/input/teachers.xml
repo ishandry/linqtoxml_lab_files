@@ -1,0 +1,12 @@
+<teachers>
+	<teacher>
+		<teacher_id>1</teacher_id>
+		<lastname>Muzychuk</lastname>
+		<firstname>Anatoliy</firstname>
+	</teacher>
+	<teacher>
+		<teacher_id>2</teacher_id>
+		<lastname>Stupka</lastname>
+		<firstname>Vasyl</firstname>
+	</teacher>
+</teachers>

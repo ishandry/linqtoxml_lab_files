@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cities-top-performers>
+  <top city="place 1">
+    <performer>Oleg Viktorenko</performer>
+    <performer>Aellboy</performer>
+    <performer>Awesome theature</performer>
+  </top>
+  <top city="place 2">
+    <performer>Polunychka</performer>
+  </top>
+  <top city="place 3">
+    <performer>Polunychka</performer>
+    <performer>Awesome theature</performer>
+  </top>
+  <top city="place 4">
+    <performer>Oleg Viktorenko</performer>
+  </top>
+  <top city="place 5">
+    <performer>Polunychka</performer>
+  </top>
+</cities-top-performers>

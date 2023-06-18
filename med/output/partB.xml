@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partB>
+  <service name="service 3">
+    <count>11</count>
+    <total_price>869</total_price>
+  </service>
+  <service name="service 1">
+    <count>8</count>
+    <total_price>2400</total_price>
+  </service>
+  <service name="service 2">
+    <count>16</count>
+    <total_price>8000</total_price>
+  </service>
+</partB>

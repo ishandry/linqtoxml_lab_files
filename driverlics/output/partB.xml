@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partB>
+  <license id="4">
+    <lastname>Added surname</lastname>
+    <category>A</category>
+    <from_date>03/03/2022</from_date>
+    <to_date>02/16/2025</to_date>
+    <drive_result>68</drive_result>
+    <theory_result>75</theory_result>
+  </license>
+  <license id="2">
+    <lastname>Oliynik</lastname>
+    <category>A</category>
+    <from_date>02/02/2022</from_date>
+    <to_date>11/11/2023</to_date>
+    <drive_result>87</drive_result>
+    <theory_result>10</theory_result>
+  </license>
+  <license id="3">
+    <lastname>Vasylenko</lastname>
+    <category>A</category>
+    <from_date>03/03/2022</from_date>
+    <to_date>02/16/2025</to_date>
+    <drive_result>68</drive_result>
+    <theory_result>75</theory_result>
+  </license>
+  <license id="1">
+    <lastname>Xshchuk</lastname>
+    <category>B</category>
+    <from_date>06/07/2021</from_date>
+    <to_date>06/07/2025</to_date>
+    <drive_result>100</drive_result>
+    <theory_result>30</theory_result>
+  </license>
+</partB>

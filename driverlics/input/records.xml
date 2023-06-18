@@ -1,0 +1,26 @@
+<records>
+	<record>
+		<lic_id>1</lic_id>
+		<date>06/07/2021</date>
+		<drive_id>1</drive_id>
+		<theory_id>1</theory_id>
+	</record>
+	<record>
+		<lic_id>2</lic_id>
+		<date>02/02/2022</date>
+		<drive_id>2</drive_id>
+		<theory_id>2</theory_id>
+	</record>
+	<record>
+		<lic_id>3</lic_id>
+		<date>03/03/2022</date>
+		<drive_id>3</drive_id>
+		<theory_id>3</theory_id>
+	</record>
+	<record>
+		<lic_id>4</lic_id>
+		<date>03/03/2022</date>
+		<drive_id>4</drive_id>
+		<theory_id>4</theory_id>
+	</record>
+</records>

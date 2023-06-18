@@ -1,0 +1,22 @@
+<theories>
+	<theory>
+		<theory_id>1</theory_id>
+		<question>Max speed in city</question>
+		<tresult>30</tresult>
+	</theory>
+	<theory>
+		<theory_id>2</theory_id>
+		<question>Max speed on highway</question>
+		<tresult>10</tresult>
+	</theory>
+	<theory>
+		<theory_id>3</theory_id>
+		<question>Regulator's sign with the hand pointed up. What is the sign demands you to do?</question>
+		<tresult>75</tresult>
+	</theory>
+	<theory>
+		<theory_id>4</theory_id>
+		<question>Added question</question>
+		<tresult>75</tresult>
+	</theory>
+</theories>

@@ -1,0 +1,12 @@
+<categories>
+	<category>
+		<category_id>1</category_id>
+		<category_name>cat_name1</category_name>
+		<localization>home</localization>
+	</category>
+	<category>
+		<category_id>2</category_id>
+		<category_name>cat_name2</category_name>
+		<localization>abroad</localization>
+	</category>
+</categories>

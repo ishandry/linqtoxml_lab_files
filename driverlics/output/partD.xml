@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partD>
+  <hardest_questions category="B">
+    <question>Max speed in city</question>
+  </hardest_questions>
+  <hardest_questions category="A">
+    <question>Max speed on highway</question>
+  </hardest_questions>
+</partD>

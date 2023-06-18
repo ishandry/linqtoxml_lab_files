@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<results>
+  <project>
+    <prj_name>Froject 2</prj_name>
+    <position_hours>
+      <costs>29100</costs>
+      <total_hours>61</total_hours>
+    </position_hours>
+  </project>
+  <project>
+    <prj_name>Project 1</prj_name>
+    <position_hours>
+      <costs>55500</costs>
+      <total_hours>92</total_hours>
+    </position_hours>
+  </project>
+</results>

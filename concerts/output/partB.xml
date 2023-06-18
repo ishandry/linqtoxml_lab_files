@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partB>
+  <concert>
+    <title>viktorenko show</title>
+    <date>07/07/2022</date>
+    <performer>Oleg Viktorenko</performer>
+    <starts>18:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>viktorenko show</title>
+    <date>07/07/2023</date>
+    <performer>Oleg Viktorenko</performer>
+    <starts>18:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+    <starts>18:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+    <starts>18:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+    <starts>21:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>polun show</title>
+    <date>08/07/2023</date>
+    <performer>Polunychka</performer>
+    <starts>17:00</starts>
+    <at>place 3</at>
+  </concert>
+  <concert>
+    <title>polun show</title>
+    <date>08/07/2023</date>
+    <performer>Polunychka</performer>
+    <starts>20:00</starts>
+    <at>place 5</at>
+  </concert>
+  <concert>
+    <title>concert_title_4</title>
+    <date>08/07/2023</date>
+    <performer>Oleg Viktorenko</performer>
+    <starts>17:00</starts>
+    <at>place 4</at>
+  </concert>
+  <concert>
+    <title>viktorenko show</title>
+    <date>09/09/2023</date>
+    <performer>Oleg Viktorenko</performer>
+    <starts>13:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>polun show</title>
+    <date>10/10/2023</date>
+    <performer>Polunychka</performer>
+    <starts>18:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/10/2023</date>
+    <performer>Awesome theature</performer>
+    <starts>21:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/14/2023</date>
+    <performer>Awesome theature</performer>
+    <starts>20:00</starts>
+    <at>place 3</at>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/17/2023</date>
+    <performer>Awesome theature</performer>
+    <starts>21:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>some SECOND title (by awesome theature)</title>
+    <date>10/22/2023</date>
+    <performer>Awesome theature</performer>
+    <starts>21:00</starts>
+    <at>place 1</at>
+  </concert>
+  <concert>
+    <title>some SECOND title (by awesome theature)</title>
+    <date>11/20/2023</date>
+    <performer>Awesome theature</performer>
+    <starts>21:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>polun show new</title>
+    <date>12/29/2023</date>
+    <performer>Polunychka</performer>
+    <starts>21:00</starts>
+    <at>place 2</at>
+  </concert>
+  <concert>
+    <title>show new</title>
+    <date>12/30/2023</date>
+    <performer>Polunychka</performer>
+    <starts>21:00</starts>
+    <at>place 2</at>
+  </concert>
+</partB>

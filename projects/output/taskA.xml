@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<results>
+  <result>
+    <prj_name>Froject 2</prj_name>
+    <emp_name>Borovets</emp_name>
+    <total_hours>14</total_hours>
+  </result>
+  <result>
+    <prj_name>Froject 2</prj_name>
+    <emp_name>Padalka</emp_name>
+    <total_hours>23</total_hours>
+  </result>
+  <result>
+    <prj_name>Froject 2</prj_name>
+    <emp_name>Tutko</emp_name>
+    <total_hours>24</total_hours>
+  </result>
+  <result>
+    <prj_name>Project 1</prj_name>
+    <emp_name>Ishchuk</emp_name>
+    <total_hours>30</total_hours>
+  </result>
+  <result>
+    <prj_name>Project 1</prj_name>
+    <emp_name>Ponomarenko</emp_name>
+    <total_hours>62</total_hours>
+  </result>
+</results>

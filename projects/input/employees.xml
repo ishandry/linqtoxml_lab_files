@@ -1,0 +1,37 @@
+<employees>
+	<employee>
+		<emp_id>1</emp_id>
+		<fname>Andrii</fname>
+		<lname>Ishchuk</lname>
+		<division>marketing</division>
+		<pos_id>1</pos_id>
+	</employee>
+	<employee>
+		<emp_id>2</emp_id>
+		<fname>Vasyl</fname>
+		<lname>Ponomarenko</lname>
+		<division>marketing</division>
+		<pos_id>2</pos_id>
+	</employee>
+	<employee>
+		<emp_id>3</emp_id>
+		<fname>Maria</fname>
+		<lname>Padalka</lname>
+		<division>software dev</division>
+		<pos_id>1</pos_id>
+	</employee>
+	<employee>
+		<emp_id>5</emp_id>
+		<fname>Roman</fname>
+		<lname>Borovets</lname>
+		<division>software dev</division>
+		<pos_id>1</pos_id>
+	</employee>
+	<employee>
+		<emp_id>4</emp_id>
+		<fname>Volodia</fname>
+		<lname>Tutko</lname>
+		<division>software dev</division>
+		<pos_id>2</pos_id>
+	</employee>
+</employees>

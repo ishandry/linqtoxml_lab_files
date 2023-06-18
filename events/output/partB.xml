@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partB>
+  <day_events date="05/05/2025">
+    <by_location local="home">
+      <event>
+        <event_title>event_title 4</event_title>
+        <agency_name>agency 3</agency_name>
+      </event>
+    </by_location>
+  </day_events>
+  <day_events date="08/08/2023">
+    <by_location local="abroad">
+      <event>
+        <event_title>event_title 2</event_title>
+        <agency_name>bgency 1</agency_name>
+      </event>
+      <event>
+        <event_title>event_title 5</event_title>
+        <agency_name>agency 3</agency_name>
+      </event>
+      <event>
+        <event_title>event_title 7</event_title>
+        <agency_name>agency 3</agency_name>
+      </event>
+    </by_location>
+    <by_location local="home">
+      <event>
+        <event_title>event_title 3</event_title>
+        <agency_name>agency 2</agency_name>
+      </event>
+    </by_location>
+  </day_events>
+  <day_events date="07/07/2023">
+    <by_location local="home">
+      <event>
+        <event_title>event_title1</event_title>
+        <agency_name>bgency 1</agency_name>
+      </event>
+    </by_location>
+    <by_location local="abroad">
+      <event>
+        <event_title>event_title 6</event_title>
+        <agency_name>agency 2</agency_name>
+      </event>
+      <event>
+        <event_title>ADDED</event_title>
+        <agency_name>bgency 1</agency_name>
+      </event>
+    </by_location>
+  </day_events>
+</partB>

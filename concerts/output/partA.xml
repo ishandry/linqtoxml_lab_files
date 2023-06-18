@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partA>
+  <concert>
+    <title>viktorenko show</title>
+    <date>07/07/2022</date>
+    <performer>Oleg Viktorenko</performer>
+  </concert>
+  <concert>
+    <title>viktorenko show</title>
+    <date>07/07/2023</date>
+    <performer>Oleg Viktorenko</performer>
+  </concert>
+  <concert>
+    <title>viktorenko show</title>
+    <date>07/07/2023</date>
+    <performer>Oleg Viktorenko</performer>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+  </concert>
+  <concert>
+    <title>concert_title_2</title>
+    <date>07/07/2023</date>
+    <performer>Aellboy</performer>
+  </concert>
+  <concert>
+    <title>polun show</title>
+    <date>08/07/2023</date>
+    <performer>Polunychka</performer>
+  </concert>
+  <concert>
+    <title>concert_title_4</title>
+    <date>08/07/2023</date>
+    <performer>Oleg Viktorenko</performer>
+  </concert>
+  <concert>
+    <title>viktorenko show</title>
+    <date>09/09/2023</date>
+    <performer>Oleg Viktorenko</performer>
+  </concert>
+  <concert>
+    <title>polun show</title>
+    <date>10/10/2023</date>
+    <performer>Polunychka</performer>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/10/2023</date>
+    <performer>Awesome theature</performer>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/14/2023</date>
+    <performer>Awesome theature</performer>
+  </concert>
+  <concert>
+    <title>some first title (by awesome theature)</title>
+    <date>10/17/2023</date>
+    <performer>Awesome theature</performer>
+  </concert>
+  <concert>
+    <title>some SECOND title (by awesome theature)</title>
+    <date>10/22/2023</date>
+    <performer>Awesome theature</performer>
+  </concert>
+  <concert>
+    <title>concert_title_5</title>
+    <date>11/07/2023</date>
+    <performer>Aellboy</performer>
+  </concert>
+  <concert>
+    <title>some SECOND title (by awesome theature)</title>
+    <date>11/20/2023</date>
+    <performer>Awesome theature</performer>
+  </concert>
+  <concert>
+    <title>polun show new</title>
+    <date>12/29/2023</date>
+    <performer>Polunychka</performer>
+  </concert>
+  <concert>
+    <title>show new</title>
+    <date>12/30/2023</date>
+    <performer>Polunychka</performer>
+  </concert>
+</partA>

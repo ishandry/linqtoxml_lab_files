@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partD>
+  <day_top_agencies date="05/05/2025">
+    <top_agency name="agency 3" />
+  </day_top_agencies>
+  <day_top_agencies date="08/08/2023">
+    <top_agency name="agency 3" />
+  </day_top_agencies>
+  <day_top_agencies date="07/07/2023">
+    <top_agency name="bgency 1" />
+  </day_top_agencies>
+</partD>
